@@ -46,7 +46,7 @@
 	}
 }
 
-section{
+.large-header{
 	position: relative;
 	padding: 5em;
 }
@@ -54,5 +54,42 @@ section{
 h1 {
 	text-align: center;
 	font-size: 4em;
+}
+
+
+
+.art img{
+	width: 20em;
+	float: left;
+	margin: 0em;
+	margin-right: 2em;
+	margin-bottom: 2em;
+}
+
+.art p {
+	width: 100%%;
+	margin: 0em;
+	font-size: 1.5em;
+	margin-top: 0em;
+	margin-bottom: 2em;
+}
+
+.art p span{
+	font-weight: bold;
+}
+
+.art {
+	/*border: solid black 10px;*/
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-bottom: 3em;
+}
+
+
+.art .container {
+
+	/*border: solid black 10px;*/
+	width: 60%;
 }
 
