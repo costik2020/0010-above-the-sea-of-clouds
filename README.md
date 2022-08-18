@@ -7,4 +7,4 @@ To implement this effect in CSS I used:
 - `@keyframes` at-rule together with `animation` property
 - and I took advantage of CSS variables aswell
 
-![above_the_sea_of_clouds.png](Attachments/above_the_sea_of_clouds.png)
+![above_the_sea_of_clouds.png](AttachmentsReadme/above_the_sea_of_clouds.png)
